@@ -50,7 +50,6 @@ Soy **desarrollador Full Stack** con más de 7 años de experiencia con fuerte e
      src="https://streak-stats.demolab.com?user=edyson10&theme=tokyonight&hide_border=true" />
 
 </div>
----
 
 <div align="center">
 
