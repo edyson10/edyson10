@@ -36,17 +36,20 @@ Soy **desarrollador Full Stack** con más de 7 años de experiencia con fuerte e
 ## 📊 Estadísticas en GitHub
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=edyson10&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyson10&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160"
+     src="https://github-readme-stats.vercel.app/api?username=edyson10&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img height="160"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=edyson10&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
 
 </div>
 
 <div align="center">
 
-<img height="160" src="https://streak-stats.demolab.com?user=edyson10&theme=tokyonight&hide_border=true" />
+<img height="160"
+     src="https://streak-stats.demolab.com?user=edyson10&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 <div align="center">
